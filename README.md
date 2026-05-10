@@ -17,9 +17,6 @@ Me apasiona crear interfaces que no solo funcionen bien, sino que se vean incre�
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📂 Proyectos destacados
-- 📱 [Clon de Instagram](https://github.com/echeparesmanuel36-design/Clon-Instagram) - Un ejercicio de maquetación detallada.
-- 💼 [Portafolio Personal](https://github.com/echeparesmanuel36-design/Portafolio) - Mi carta de presentación al mundo.
 
 ---
 
