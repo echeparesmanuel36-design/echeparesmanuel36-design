@@ -14,13 +14,13 @@ I build high-performance, action-oriented systems that restore power to organiza
 
 ## 🚀 Strategic Projects (The Axiom Arsenal)
 
-#### [🏛️ AETERNA AI KERNEL](https://github.com/echeparesmanuel36-design/AETERNA)
+#### [🏛️ AETERNA AI KERNEL](https://github.com/echeparesmanuel36-design/AETERNA-AI-Kernel)
 The definitive Sovereign Intelligence engine. 
 * **Core:** Written in pure Rust for memory safety and zero-latency.
 * **Privacy:** Local RAG (Retrieval-Augmented Generation) for private corporate knowledge.
 * **Defense:** Integrated hardware-level "Kill Switch" and forensic IP protection.
 
-#### [🔗 NEXUS-Q CORE](https://github.com/echeparesmanuel36-design/NEXUS-Q)
+#### [🔗 NEXUS-Q CORE](https://github.com/echeparesmanuel36-design/NEXUS-Q-Kernel)
 High-performance system kernel with lock-free architecture.
 * **ASH (Axiom Sentinel Handler):** Autonomous system healing and self-repair.
 * **Performance:** Designed for massive concurrency and low-level task execution.
