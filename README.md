@@ -1,43 +1,40 @@
-# 🏛️ Manuel Echepares | Axiom Systems Founder
+# 🏛️ Manuel Echepares | Axiom Systems
+### *Lead Systems Architect & Founder of AETERNA AI*
 
-<p align="left">
-  <a href="https://x.com/echepares269651" target="blank">
-    <img src="https://img.shields.io/badge/X.com-Sovereign_Tech-black?style=for-the-badge&logo=x&logoColor=white" alt="echepares269651" />
-  </a>
-</p>
-
-### 🚀 Architecting Sovereign Technology & Low-Level Systems
-Desarrollador enfocado en la **soberanía tecnológica** y la ingeniería de sistemas críticos. Mi trabajo se centra en el desarrollo de software de bajo nivel, núcleos de sistemas operativos y arquitecturas de hardware modernas como **RISC-V**.
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/echepares269651?style=social)](https://x.com/echepares269651)
+![Rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust)
+![Security](https://img.shields.io/badge/Focus-Sovereign_AI_%26_Cybersecurity-blue)
 
 ---
 
-## 🛠️ Mi Proyecto Principal: NEXUS-Q
-Actualmente lidero el desarrollo de **NEXUS-Q**, un ecosistema operativo diseñado para la independencia y la potencia computacional.
+## 🛡️ The Vision: Technological Sovereignty
+I build high-performance, action-oriented systems that restore power to organizations. My work focuses on **Zero-Cloud AI infrastructure**, kernel-level security, and post-quantum encryption. While the world rents intelligence, I build the engines that own it.
 
-* **[NEXUS-Q-Kernel](https://github.com/echeparesmanuel36-design/NEXUS-Q-Kernel)**: Motor de micro-kernel escrito en **Rust** para RISC-V. 
-    * *Status:* ![Kernel CI](https://github.com/echeparesmanuel36-design/NEXUS-Q-Kernel/actions/workflows/production.yml/badge.svg) **Verified & Stable.**
-* **NEXUS-Q-OS**: Interfaz y capas superiores del sistema operativo soberano.
+### 🚀 Key Projects
 
----
+#### [🏛️ AETERNA AI KERNEL](https://github.com/echeparesmanuel36-design/AETERNA)
+The definitive Sovereign Intelligence engine. 
+* **Core:** Written in pure Rust for memory safety.
+* **Feature:** Local RAG for private corporate learning.
+* **Security:** Integrated hardware-level "Kill Switch" and forensic IP protection.
 
-## 🧰 Tech Stack & Skills
-* **Languages:** Rust (Nightly), C, Assembly (RISC-V).
-* **Systems:** OS Development, Micro-Kernel Architecture, Bare-Metal Programming.
-* **Tools:** Git, GitHub Actions (CI/CD), Makefile Automation.
-
----
-
-## 📈 Engineering Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=echeparesmanuel36-design&show_icons=true&theme=tokyonight" alt="Manuel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echeparesmanuel36-design&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+#### [🔗 NEXUS-Q CORE](https://github.com/echeparesmanuel36-design/NEXUS-Q)
+A lock-free system kernel designed for extreme low latency and autonomous infrastructure repair.
 
 ---
 
-## 📫 Contacto & Colaboración
-* **Visión:** Axiom Systems - Construyendo el futuro de la computación.
-* **X (Twitter):** [@echepares269651](https://x.com/echepares269651)
+## 🛠️ Technical Arsenal
+- **Languages:** Rust (Expert), C/C++, Python.
+- **Specializations:** Kernel Development, Neural Core Optimization, AES-GCM 256-bit Cryptography.
+- **Infrastructure:** Autonomous IT healing, Predictive failure analysis, Secure Enclaves (Intel SGX/AMD SEV).
 
 ---
-*"La verdadera libertad tecnológica comienza en el Kernel."* 🏛️🛡️🚀
+
+## 📈 Connect with the Empire
+I am currently deploying sovereign infrastructure for organizations that prioritize privacy over convenience.
+
+* **𝕏 (Twitter):** [@echepares269651](https://x.com/echepares269651) - *Daily insights on AI sovereignty and system architecture.*
+* **Portfolio:** Check the pinned repositories below for full source code access.
+
+---
+*"The best way to protect data is to make sure it never leaves the machine."*
