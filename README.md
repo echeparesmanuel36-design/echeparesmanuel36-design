@@ -10,16 +10,26 @@
 ## 🛡️ The Vision: Technological Sovereignty
 I build high-performance, action-oriented systems that restore power to organizations. My work focuses on **Zero-Cloud AI infrastructure**, kernel-level security, and post-quantum encryption. While the world rents intelligence, I build the engines that own it.
 
-### 🚀 Key Projects
+---
+
+## 🚀 Strategic Projects (The Axiom Arsenal)
 
 #### [🏛️ AETERNA AI KERNEL](https://github.com/echeparesmanuel36-design/AETERNA)
 The definitive Sovereign Intelligence engine. 
-* **Core:** Written in pure Rust for memory safety.
-* **Feature:** Local RAG for private corporate learning.
-* **Security:** Integrated hardware-level "Kill Switch" and forensic IP protection.
+* **Core:** Written in pure Rust for memory safety and zero-latency.
+* **Privacy:** Local RAG (Retrieval-Augmented Generation) for private corporate knowledge.
+* **Defense:** Integrated hardware-level "Kill Switch" and forensic IP protection.
 
 #### [🔗 NEXUS-Q CORE](https://github.com/echeparesmanuel36-design/NEXUS-Q)
-A lock-free system kernel designed for extreme low latency and autonomous infrastructure repair.
+High-performance system kernel with lock-free architecture.
+* **ASH (Axiom Sentinel Handler):** Autonomous system healing and self-repair.
+* **Performance:** Designed for massive concurrency and low-level task execution.
+
+#### [🔗 NEXUS-Q-OS](https://github.com/echeparesmanuel36-design/NEXUS-Q-OS)
+A high-performance, lock-free system kernel architecture built for mission-critical autonomy.
+* **Core:** Developed in Rust for maximum memory safety and bare-metal performance.
+* **Architecture:** Focused on ultra-low latency task scheduling and sovereign infrastructure management.
+* **ASH (Axiom Sentinel Handler):** Integrated logic for autonomous system health monitoring and self-healing protocols.
 
 ---
 
